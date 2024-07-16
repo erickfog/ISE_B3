@@ -1,9 +1,9 @@
 # Byte-compiled / optimized / DLL files
-iseb3/
 pyproject.toml
 __pycache__/
 *.py[cod]
 *$py.class
+iseb3/bin
 
 # C extensions
 *.so
